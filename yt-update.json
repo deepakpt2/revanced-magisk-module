@@ -1,6 +1,6 @@
 {
-  "version": "v17.27.39",
-  "versionCode": 20220723,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220723/yt-revanced-magisk-v17.27.39-all.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/latest_build.log"
+  "version": "v17.32.35 ",
+  "versionCode": 20220724,
+  "zipUrl": "https://github.com/deepakpt2/revanced-magisk-module/releases/download/20220724/youtube-revanced-magisk-v17.32.35-all.zip",
+  "changelog": "https://raw.githubusercontent.com/deepakpt2/revanced-magisk-module/update/latest_build.md"
 }
