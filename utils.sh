@@ -240,7 +240,7 @@ build_yt() {
 		"YouTube ReVanced" \
 		"$last_ver" \
 		"mounts base.apk for YouTube ReVanced" \
-		"https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/update/yt-update.json"
+		"https://deepak.pt.eu.org/update/yt-update.json"
 
 	local output="youtube-revanced-magisk-v${last_ver}-all.zip"
 	local xdelta="${TEMP_DIR}/youtube-revanced-v${last_ver}.xdelta"
