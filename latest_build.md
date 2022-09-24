@@ -1,8 +1,8 @@
-2022-09-23
+2022-09-24
   
 CLI: revanced-cli-2.12.0-all.jar  
 Integrations: app-release-unsigned-v0.42.1.apk  
-Patches: revanced-patches-2.68.2.jar  
+Patches: revanced-patches-2.69.0.jar  
 
 YouTube version: 17.36.37  
 downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-36-37-release/youtube-17-36-37-2-android-apk-download/)  
